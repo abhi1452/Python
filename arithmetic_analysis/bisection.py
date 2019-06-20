@@ -1,7 +1,7 @@
 import math
 
 
-def bisection(function, a, b):  # finds where the function becomes 0 in [a,b] using bolzano
+def bisection(function, a, b):  # finds where the function becomes 0 in [a,b] using bolzanO
 
     start = a
     end = b
